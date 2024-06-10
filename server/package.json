@@ -1,0 +1,18 @@
+{
+  "name": "graphql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "nodemon": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "apollo-server": "^3.13.0",
+    "lodash": "^4.17.21",
+    "nodemon": "^3.1.3"
+  }
+}
